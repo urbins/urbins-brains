@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520561007277",
+    "firebase_url": "https://urbins-project.firebaseio.com",
+    "project_id": "urbins-project",
+    "storage_bucket": "urbins-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520561007277:android:913df6e2875631ed",
+        "android_client_info": {
+          "package_name": "com.jonahchin.urbins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520561007277-7b5cm61fdlah763g1547eiekl13shu60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jonahchin.urbins",
+            "certificate_hash": "0045499bc175732417f74fbfc4a5d08627fe1433"
+          }
+        },
+        {
+          "client_id": "520561007277-h09k4t01i6p6sp08m8kkd4i2opveqpad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbYZ2iv3SRjS-ChG7acffEWtigA6t7RY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520561007277-h09k4t01i6p6sp08m8kkd4i2opveqpad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
